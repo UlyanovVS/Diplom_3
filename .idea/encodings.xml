@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/constants/DataConstants.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pages/MainPage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pages/ProfilePage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pages/RegisterPage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/request/RegistrationRequest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/tests/BaseTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/tests/ConstructorTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/tests/LoginTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/tests/ProfileTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/tests/RegistrationTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/util/Browser.java" charset="UTF-8" />
+  </component>
+</project>
